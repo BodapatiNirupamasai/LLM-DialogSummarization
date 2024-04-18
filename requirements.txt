@@ -1,0 +1,8 @@
+langchain==0.1.16
+streamlit==1.29.0
+streamlit_nightly==1.32.3.dev20240316
+transformers==4.31.0
+torch
+datasets
+evaluate
+peft
