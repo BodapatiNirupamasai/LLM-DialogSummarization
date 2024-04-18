@@ -17,3 +17,8 @@ The repository contains :
 2. Data preprocessing code
 3. Streamlit App code
 4. Sample data files for inference
+
+
+System Architecture :
+
+![System Architecture](https://github.com/BodapatiNirupamasai/LLM-DialogSummarization/assets/35302469/6b758c99-7215-4f11-ac76-a30aa776cd46)
